@@ -22,6 +22,8 @@ I'm bout to drop a verse here:
 
 ```{r}
 cat_list <- c("house_cat", "feral_cat", "big_cat", "mean_cat", "tiger")
+
+# fire verse, king - eli
 ```
 
 
