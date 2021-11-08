@@ -13,8 +13,9 @@ Bout to go off on this W7 album collab!
 
 sheeeeeeeeeeeeeeeeeeeeesh. Go off on this code chunk:
 
-```{r}
-
+```{r eli}
+dog_list <- c("golden", "lab", "pit", "aussie", "chihuahua")
+  
 ```
 
 I'm bout to drop a verse here:
