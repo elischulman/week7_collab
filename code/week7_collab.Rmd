@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# WATCH THE THRONE
+
 Bout to go off on this W7 album collab!
 
 sheeeeeeeeeeeeeeeeeeeeesh. Go off on this code chunk:
@@ -16,6 +18,7 @@ sheeeeeeeeeeeeeeeeeeeeesh. Go off on this code chunk:
 ```{r eli}
 dog_list <- c("golden", "lab", "pit", "aussie", "chihuahua")
   
+# heat
 ```
 
 I'm bout to drop a verse here:
@@ -25,7 +28,6 @@ cat_list <- c("house_cat", "feral_cat", "big_cat", "mean_cat", "tiger")
 
 # fire verse, king - eli
 ```
-
 
 
 
